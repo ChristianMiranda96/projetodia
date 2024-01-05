@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(45, 49, 66, 0.616);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-align: center;
+    padding: 1em 0;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.308);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-align: center;
+    padding: 1em 0;
+
+}
+
+footer p {
+    margin: 0;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
